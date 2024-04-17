@@ -1,2 +1,2 @@
 # SQLProjects
-Covid Datasets
+Covid Datasets and SQL for data analysis! 
